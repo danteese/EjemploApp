@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    // New things
     var number = 0
 
     @IBOutlet weak var ScoreLabel: UILabel!
