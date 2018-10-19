@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     @IBAction func increaseNumber(_ sender: Any) {
         number = number + 1
         ScoreLabel.text = String(number)
-        ScoreLabel.textColor = UIColor.green
+        ScoreLabel.textColor = UIColor.blue
     }
     
 }
